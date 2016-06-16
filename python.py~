@@ -6,6 +6,6 @@ print "test revrt 3"
 <<<<<<< HEAD
 print "test branch"
 =======
+>>>>>>> 8a4918b26645b0a486a332f82e657faa69eb7dc6
 print "testing pushing"
 
->>>>>>> 8a4918b... test push
